@@ -1,26 +1,6 @@
 # Netflix Movies and TV Shows Dataset Analysis Using Apache Spark
 
-**Apache Spark** is used to perform **Exploratory Data Analysis (EDA)** on the Netflix Movies and TV Shows dataset. This code can be run in jupyter notebook, or google colab.
-
----
-
-
-## **Process**
-
-1. **Load the Dataset**
-
-2. **Perform EDA**
-   - Check the dataset shape.
-   - Show statistics such as mean, std dev, min, max for columns.
-   - Count number of missing values for each column.
-   - Count the type of content (Movies or TV Shows).
-   - Count the content added each year.
-   - Count the number of movies in the most popular genres.
-   - Show the distribution of ratings.
-
-3. **Visualization**
-   - Visualize trends, such as the number of movies or shows added over the years and the most common genres.
----
+**Apache Spark** is used to perform **Exploratory Data Analysis (EDA)** on the Netflix Movies and TV Shows dataset.
 
 ## **How to run the code**
 
